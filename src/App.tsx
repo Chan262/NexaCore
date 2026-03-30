@@ -825,7 +825,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-brand-primary mb-1">Email Our Team</h4>
-                  <a href="mailto:lwethutshabalala262@gmail.com" className="text-slate-600 hover:text-brand-accent transition-colors text-lg">lwethutshabalala262@gmail.com</a>
+                  <a href="mailto:teamnexacoreictsolutions@gmail.com" className="text-slate-600 hover:text-brand-accent transition-colors text-lg">teamnexacoreictsolutions@gmail.com</a>
                 </div>
               </div>
               
@@ -835,7 +835,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-brand-primary mb-1">Office Location</h4>
-                  <p className="text-slate-600">133 Bellairs Drive<br/>Northriding, South Africa</p>
+                  <p className="text-slate-600">12 Perth Avenue<br/>Bryanston, South Africa</p>
                 </div>
               </div>
             </div>
